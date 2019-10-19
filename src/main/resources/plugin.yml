@@ -1,0 +1,7 @@
+name: BackupMC
+version: ${project.version}
+main: nl.remya.game.minecraft.backupmc.BackupMC
+api-version: 1.13
+prefix: backupmc
+description: Manage Minecraft backups
+website: https://game.remya.nl
